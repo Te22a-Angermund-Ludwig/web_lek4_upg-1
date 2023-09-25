@@ -1,0 +1,23 @@
+.Grid-box{
+display: grid;
+grid-template-columns: 20% auto;
+grid-template-rows: 20% auto;
+gap: 10px;
+background-color: #fcdee0;
+}
+
+.dog{
+width: auto;
+height: 100%;
+background-color: #fcdee0;
+
+}
+
+.rubrik{
+text-align: center;
+
+
+}
+
+
+
